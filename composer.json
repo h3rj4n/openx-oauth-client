@@ -1,5 +1,5 @@
 {
-    "name": "vlucas/openx-oauth-client",
+    "name": "h3rj4n/openx-oauth-client",
     "type": "library",
     "description": "Modern PHP client for working with the OpenX v4 oAuth API",
     "keywords": ["openx", "openx oauth", "openx api"],
@@ -12,8 +12,8 @@
         }
     ],
     "require": {
-        "guzzlehttp/guzzle": "~4.0",
-        "guzzlehttp/oauth-subscriber": "~0.1"
+        "guzzlehttp/guzzle": "~6.0",
+        "guzzlehttp/oauth-subscriber": "~0.3"
     },
     "require-dev": {
         "vlucas/phpdotenv": "~1.0"
